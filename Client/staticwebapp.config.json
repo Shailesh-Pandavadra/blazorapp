@@ -1,7 +1,7 @@
 {
-    "navigationFallback": {
-        "rewrite": "/index.html"
-    },
-    "route": "/index*",
-    "rewrite": "/index.html"
+    // "navigationFallback": {
+    //     "rewrite": "/index.html"
+    // },
+    "route": "/counter*",
+    "rewrite": "/counter.html"
 }
